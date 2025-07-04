@@ -1,0 +1,19 @@
+{
+  "name": "circle_paymaster",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type": "module",
+  "dependencies": {
+    "@circle-fin/modular-wallets-core": "^1.0.9",
+    "dotenv": "^17.0.1",
+    "ethers": "^6.15.0",
+    "viem": "^2.31.6"
+  }
+}
